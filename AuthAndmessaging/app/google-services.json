@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "729560859818",
+    "firebase_url": "https://authandmessaging-b6dc6.firebaseio.com",
+    "project_id": "authandmessaging-b6dc6",
+    "storage_bucket": "authandmessaging-b6dc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729560859818:android:505bbc57cc1dfbee",
+        "android_client_info": {
+          "package_name": "com.example.authandmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729560859818-d8moi2b0tb3lpgaq4etlhb84lfho11ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authandmessaging",
+            "certificate_hash": "7c00a1a06900f876f86ce7fed777561141816b71"
+          }
+        },
+        {
+          "client_id": "729560859818-fp5rcps1kb579u9ftjas8flau09svj8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQcpwtL9VkYoUKZUN2KvR7zEcEMKj3G0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729560859818-fp5rcps1kb579u9ftjas8flau09svj8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
